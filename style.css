@@ -1,0 +1,13 @@
+*{
+
+}
+
+.jumbotron-fluid{
+	background-color: #41f497;
+	font-family: 'Rammetto One', cursive;
+
+}
+
+#titular-new-reminder, #titular-tarefas{
+	color: #41f497;
+}
